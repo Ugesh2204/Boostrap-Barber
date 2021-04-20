@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+pink->#FF004D;
+Grey-> #EEEEEE
+*/
+
+#main-home .header-top .item a{
+    color:#000;
+}
+
+#main-home .header-top .item a:hover{
+    color:#FF004D;
+}
